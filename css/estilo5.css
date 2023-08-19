@@ -1,0 +1,19 @@
+.p5{
+    color: black;
+    background-color: rgb(218, 233, 137);
+    font-family: Arial;
+}
+h1{
+    margin: 5px;
+    font-family: Arial;
+    background-color: rgb(228, 173, 97) ;
+    float: none;
+    color: black;
+    list-style-type: none;
+    padding: 20px;
+    text-align: justify;
+    display: flex;
+}
+body{
+    background-color:rgb(255, 255, 255);
+}

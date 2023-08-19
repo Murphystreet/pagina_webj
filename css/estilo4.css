@@ -1,0 +1,22 @@
+.p4{
+    color: black;
+    justify-content: center;
+    font-size: 25px;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-size: 28px;
+    margin: 0%;
+    padding: 0%;
+    background-color: chocolate;
+}
+body{
+    background-color: lightslategrey;
+}
+h2{
+    background-color: brown;
+    padding:1%;
+    margin: 0%;
+    font-size: 28px;
+}
